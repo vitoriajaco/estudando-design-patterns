@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="226a3741-5a58-446f-b620-75f42fdecc79" name="Changes" comment="Alterando o codigo para aplicar design patterns" />
+=======
+    <list default="true" id="226a3741-5a58-446f-b620-75f42fdecc79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ICMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraDeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoraDeImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestesImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestesImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TipoImposto/TipoImposto.java" beforeDir="false" />
+    </list>
+>>>>>>> a999de982b55c67353f65a7eb5d0a8911db31bf3
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
