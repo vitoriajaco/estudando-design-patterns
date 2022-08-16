@@ -9,4 +9,4 @@ public class TestesDescontos {
         System.out.println(calculadora.calcular(segundo));
     }
 }
-
+// design patterns
